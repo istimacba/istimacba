@@ -2,6 +2,8 @@
 istimacba/istimacba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Languages and Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=10a0dc)
