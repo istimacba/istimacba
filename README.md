@@ -2,6 +2,19 @@
 istimacba/istimacba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+I find it fascinating, making at least 2 people communicate over long distances via machines, in seconds only.
+Back in time, it would take weeks and months for a messenger riding on a horse.
+
+And what if you wanted to copy a handwritten book and distribute?
+Penmans spending days and weeks, for a dozen of copies, now it takes only a few seconds, to have nearly infinite.
+
+And a group of people, up to something great, needed all the papers flying around to keep their records and adjust.
+Sending runners all over the place, to inform and coordinate.
+Now it takes only a few clicks and a few keystrokes.
+
+
+
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
